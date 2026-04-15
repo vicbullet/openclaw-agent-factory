@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-agent-factory",
+  "description": "Create fully operational OpenClaw AI agents from scratch — guided setup for identity, model auth, Telegram/Slack channels, Cortex v2 memory system, Dream Pipeline, browser automation, and MCP integrations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Victor Araujo",
+    "url": "https://github.com/ovictorluiz"
+  },
+  "keywords": ["openclaw", "agent", "cortex", "memory", "dream-pipeline", "telegram", "slack"],
+  "license": "MIT"
+}
