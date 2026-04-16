@@ -1,0 +1,1 @@
+{"name":"openclaw-agent-factory","owner":{"name":"Victor Araujo","email":"vic@bullet.cash"},"plugins":[{"name":"openclaw-agent-factory","description":"Create fully operational OpenClaw AI agents from scratch.","category":"development","source":"./","homepage":"https://github.com/vicbullet/openclaw-agent-factory"}]}

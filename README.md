@@ -18,13 +18,14 @@ Guides you through a 10-phase setup process to create an agent with:
 ## Install
 
 ```bash
-claude /plugin install ovictorluiz/openclaw-agent-factory
+claude plugin marketplace add vicbullet/openclaw-agent-factory
+claude plugin install openclaw-agent-factory
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/ovictorluiz/openclaw-agent-factory.git ~/.claude/plugins/openclaw-agent-factory
+git clone https://github.com/vicbullet/openclaw-agent-factory.git ~/.claude/plugins/openclaw-agent-factory
 ```
 
 ## Usage
